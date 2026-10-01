@@ -1,0 +1,12 @@
+{
+  "name": "falyka-bomba",
+  "version": "1.0.0",
+  "description": "Mini game de bomba para o chat da Falyka",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
